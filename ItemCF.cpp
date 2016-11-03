@@ -1,8 +1,6 @@
 //This program is an implementation of Item-based Collaborative Filtering. 
 //The aim of this program is to recommend movie for users.
 //Data of this program is the MovieLens 1M dataset from http://grouplens.org/datasets/movielens/
-//Author: Anni Piao, Hanning Su
-//StudentID: 734514, 741018
 
 #include <cstdio>
 #include <fstream>
